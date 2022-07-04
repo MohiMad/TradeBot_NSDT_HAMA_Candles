@@ -45,3 +45,5 @@ TypeClose = CloseType
 SourceClose = (open + high + low + close)/4
 LengthClose = CloseLength
 
+BodyColor = CandleOpen > CandleOpen[1] ? color.green : color.red
+
