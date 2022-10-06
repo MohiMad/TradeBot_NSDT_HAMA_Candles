@@ -18,6 +18,7 @@
 To work around it, the NSDT indicator must have no flaws
 
 
+
 ----------------------------------------------------------------------------------
 
 OpenType = HighType = LowType = CloseType = MAType = "EMA"
